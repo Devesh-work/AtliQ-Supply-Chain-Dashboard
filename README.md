@@ -18,5 +18,7 @@ Create the metrics according to the metrics list. Create a dashboard according t
 
 **Data Model**
 
+![Data Model 1](https://user-images.githubusercontent.com/110961685/203830781-3a1c5442-ad61-4304-96ba-dc1b3e31ef9e.PNG)
 
-!![DATA MODEL](https://user-images.githubusercontent.com/110961685/203829445-dceb3447-5a19-4d0d-9336-d4f26b7bd33c.PNG)
+
+
