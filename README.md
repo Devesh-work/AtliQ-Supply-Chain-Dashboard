@@ -1,7 +1,7 @@
-**## AtliQ-Supply-Chain-Dashboard**
+**AtliQ-Supply-Chain-Dashboard**
 A PowerBI Dashboard having Insights to Solve a Supply Chain Issue in FMCG Domain
 
-**#Problem statement**
+**Problem statement**
 
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodra. They want to expand to other metro/tier1 cities in the next 2 years.
 
@@ -9,7 +9,7 @@ AtliQ Mart is currently facing a problem where a few key customers did not exten
 
 The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘on-time delivery (OT) %’, ‘In-full delivery (IF) %’ and OnTime in full (OTIF) % of the customer orders on a daily basis against the target service level set for each customer.
 
-**#Task List**
+**Task List**
 
 Peter Pandey is the data analyst in the supply chain team who joined Atliq Mart recently. He has been briefed about the the task in the stakeholder business review meeting. Now Imagine yourself as Peter Pandey and play the role of the new data analyst who is excited to build this dashboard and perform the following task
 
