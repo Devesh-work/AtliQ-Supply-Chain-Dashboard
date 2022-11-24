@@ -27,3 +27,25 @@ Create the metrics according to the metrics list. Create a dashboard according t
 
 
 
+**KEY LEARNING**
+
+**Things I learned while building this Dashboard**
+
+  Supply chain domain knowledge
+
+  Business Related Terms
+  
+  OT% :On Time Delivery
+  IF% :In Full Delivery
+  OTIF%: On Time In Full
+  LIFR:  Line Fill Rate
+  VOFFR%: Volume Fill Rate
+  Order Lines
+  Key Performance Indicator(KPI)
+  Conditional Formatting, Sparklines
+  Button, Bookmarks
+  Page Navigation
+  Dax Measures 
+
+
+
