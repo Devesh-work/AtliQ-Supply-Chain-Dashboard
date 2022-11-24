@@ -23,7 +23,8 @@ Create the metrics according to the metrics list. Create a dashboard according t
 
 **Dashboard**
 
-![ATLIQ MART SCREENSHOT](https://user-images.githubusercontent.com/110961685/203832093-bd5e14fb-77c8-4299-bb44-e37ba1d14085.PNG)
+![Data 2](https://user-images.githubusercontent.com/110961685/203833100-ca9b64c6-7a16-4173-9758-00f5d9083a7a.PNG)
+
 
 
 
